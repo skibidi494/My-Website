@@ -4,7 +4,7 @@
     list-style: none;
     display: flex;
     justify-content: center;
-    background-color: rgb(255, 225, 229);
+    background-color: rgb(252, 212, 217);
     height: 50px;
     align-items: center;
     margin-top: -10px;
@@ -18,16 +18,17 @@
 
 body {
     font-family: 'Dancing Script', cursive;
-    background-color: rgb(217, 240, 248);
+    background-color: rgb(197, 241, 255);
     
 }
 
 .AboutTheseAnimals {
-    color: pink;
+    color: white;
+    text-decoration: none;
 }
 
 .doggiestext{
-
+    color: white;
     text-align: center;
     width: 600px;
 
@@ -40,12 +41,14 @@ body {
 }
 
 .Homeyay {
-    color: pink;
+    color: white;
+    text-decoration: none;
 }
 
 .hometext {
     text-align: center;
     width: 600px;
+    color: white;
 }
 
 .home {
@@ -55,12 +58,14 @@ body {
 }
 
 .OurGoals {
-    color: pink;
+    color: white;
+    text-decoration: none;
 }
 
 .goalstext {
     text-align: center;
     width: 600px;
+    color: white;
 }
 
 .goals {
@@ -79,12 +84,14 @@ body {
 }
 
 .Contactsyay {
-    color: pink;
+    color: white;
+    text-decoration: none;
 }
 
 .contactstext {
     text-align: center;
     width: 600px;
+    color: white;
 }
 
 .contacts {
@@ -93,7 +100,29 @@ body {
     justify-content: center;
 }
 
+.label {
+    color: white;
+}
+
+.adoption {
+    color: white;
+}
+
 .Dog {
     width: 350px;
     height: 300px;
+}
+
+.cutie {
+    color: white;
+}
+
+.websiteee {
+    width: 450px;
+    height: 300px;
+}
+
+.hiii {
+    justify-content: center;
+    display: flex;
 }
